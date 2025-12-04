@@ -27,9 +27,11 @@ Category-wise Spending vs Budget Comparison
 
 
 Project Structure
-.
+
 main.py
+
 expenses.db   (auto-created)
+
 README.md
 
 
